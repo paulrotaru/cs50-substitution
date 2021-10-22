@@ -1,0 +1,4 @@
+first check argv to take only the key
+chars in the key must be from 65 to 90 and 97 to 122
+key must contain 26 chars
+chars in the key must be unique
